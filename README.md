@@ -12,7 +12,7 @@ Hi there! I'm **Vanshika Malik**, a passionate **BCA** and a dedicated **Full-St
 - **Backend:** PHP
 - **Database:** MySQL
 - **Version Control & Tools:** Git, GitHub, Notion, Canva
-- **Worked on payemnt integration also**
+- **Worked on payment integration also**
 
 ## 📚 Continuous Learning
 I'm continuously enhancing my knowledge in **DSA with Java**, **full-stack development**. My goal is to create impactful web solutions that solve real-world problems. 🌟
