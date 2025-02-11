@@ -25,7 +25,7 @@ I'm open to collaborating on projects that involve:
 If you have an exciting project, let’s connect and build something amazing together! 🚀
 
 ## 🌐 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+- [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/vanshika-malik-3495432a2/))
 
 ---
 💻 *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
