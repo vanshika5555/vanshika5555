@@ -11,7 +11,7 @@ Hi there! I'm **Vanshika Malik**, a passionate **BCA** and a dedicated **Full-St
 - **Frontend:** HTML5, CSS3, JavaScript (ES6+), TailwindCSS
 - **Backend:** PHP
 - **Database:** MySQL
-- **Version Control & Tools:** Git, GitHub, Notion, Canva
+- **Version Control & Tools:** Git, GitHub, Figma, Canva
 - **Worked on payment integration also**
 
 ## 📚 Continuous Learning
