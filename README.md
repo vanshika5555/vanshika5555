@@ -27,6 +27,10 @@ If you have an exciting project, let’s connect and build something amazing tog
 ## 🌐 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/vanshika-malik-3495432a2/)
 
+## MY PROJECTS
+- [Portfolio](https://github.com/vanshika5555/portfolio)
+- [TASKIFY](https://github.com/vanshika5555/CEDMS)
+- [FarmJI](https://github.com/vanshika5555/FarmJI)
 ---
 💻 *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
 
