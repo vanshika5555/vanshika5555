@@ -9,6 +9,7 @@ Hi there! I'm **Vanshika Malik**, a passionate **BCA** and a dedicated **Full-St
 ## 🔧 Tech Stack
 - **Languages:** C, Java, HTML, CSS, JavaScript, PHP, MySQL
 - **Frontend:** HTML5, CSS3, JavaScript (ES6+), TailwindCSS
+- **Framwork:** React
 - **Backend:** PHP
 - **Database:** MySQL
 - **Version Control & Tools:** Git, GitHub, Figma, Canva
