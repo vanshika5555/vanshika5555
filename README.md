@@ -4,14 +4,15 @@
 
 Welcome to my GitHub profile! 🚀
 
-I'm Vanshika Malik, a passionate Full-Stack Developer who enjoys building modern, responsive, and user-friendly web applications. I love transforming ideas into real-world products by combining creative frontend development with robust backend engineering.
+I'm Vanshika Malik, a passionate Full-Stack Developer who loves transforming ideas into responsive, scalable, and user-friendly web applications. I enjoy working across the entire development lifecycle, from crafting engaging frontend experiences to building robust backend systems and integrating databases, APIs, and payment gateways.
 
-From developing full-stack e-commerce platforms to building internal business dashboards and integrating payment gateways, I enjoy solving practical problems through technology.
+I believe in learning by building, solving real-world problems, and continuously improving my development skills.
 
-- 💼 **Currently working as:** Full Stack Developer at Storelo Pvt Ltd (Easy My Storage)
+- 💼 **Current Role:** Full Stack Developer at Storelo Pvt Ltd (Easy My Storage)
 - 🛍️ **Featured Project:** The Reset — Full-Stack Clothing E-Commerce Platform
-- 🌐 **Live E-Commerce Website:** [the-reset-snowy.vercel.app](https://the-reset-snowy.vercel.app/)
-- 💻 **E-Commerce Source Code:** [THE_RESET on GitHub](https://github.com/vanshika5555/THE_RESET)
+- 🌐 **Live E-Commerce Website:** [Visit The Reset](https://the-reset-snowy.vercel.app/)
+- 💻 **E-Commerce Source Code:** [THE_RESET Repository](https://github.com/vanshika5555/THE_RESET)
+- 🌐 **Portfolio:** [Visit My Portfolio](https://vanshika5555.github.io/Portfolio_React/)
 - 🎓 **Education:** Bachelor of Computer Applications (BCA) | CGPA: 9.2/10
 - 🧠 **Currently Learning:** Data Structures & Algorithms using Java
 - 🏆 **Hackathons:** Participated in 7 hackathons
@@ -19,33 +20,36 @@ From developing full-stack e-commerce platforms to building internal business da
 
 ---
 
-# 🛍️ My Featured Project — The Reset
+# 🛍️ Featured Project — The Reset
 
 ## Full-Stack Clothing E-Commerce Platform
 
-**The Reset** is a full-stack clothing e-commerce web application developed from scratch to provide a modern and convenient online shopping experience.
+**The Reset** is a full-stack clothing e-commerce web application built from scratch to provide a modern and convenient online shopping experience.
 
 The project combines an interactive shopping interface with backend APIs, database integration, authentication, shopping cart functionality, checkout workflows, and administrative product management.
 
-<details>
-<summary><b>🌐 Explore The Reset</b></summary>
+### 🌐 Explore The Reset
 
-- 🛒 **Live Website:** https://the-reset-snowy.vercel.app/
-- 💻 **GitHub Repository:** https://github.com/vanshika5555/THE_RESET
-
-</details>
+<p align="center">
+  <a href="https://the-reset-snowy.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-Visit_The_Reset-000000?style=for-the-badge" alt="Visit The Reset Live Website"/>
+  </a>
+  <a href="https://github.com/vanshika5555/THE_RESET">
+    <img src="https://img.shields.io/badge/💻_GITHUB-View_Source_Code-6E40C9?style=for-the-badge&logo=github&logoColor=white" alt="View The Reset Source Code"/>
+  </a>
+</p>
 
 ### ✨ Key Features
 
-- 🛍️ **Product Catalog:** Browse clothing products with category filters, keyword search, and detailed product pages.
+- 🛍️ **Product Catalog:** Browse clothing products with category filters, keyword search, and product detail pages.
 - 🔐 **Authentication System:** User signup, login, JWT authentication, protected routes, and persistent sessions.
 - 🛒 **Shopping Cart:** Manage selected products throughout the shopping journey.
 - 💳 **Checkout Workflow:** Support the shopping and checkout process.
 - 📦 **Order Management:** Manage order information and order workflows.
-- 🛠️ **Admin Dashboard:** Create, update, and delete products and manage orders and inventory.
+- 🛠️ **Admin Dashboard:** Product, order, and inventory management with CRUD operations.
 - 🔌 **RESTful APIs:** Connect the frontend with backend services built using Express.js.
-- 🗄️ **Database Management:** Store and manage application data using MongoDB and Mongoose schemas.
-- 📱 **Responsive Interface:** Build a user-friendly shopping experience across supported screen sizes.
+- 🗄️ **Database Management:** Organize application data using MongoDB and Mongoose schemas.
+- 📱 **Responsive Interface:** Create a user-friendly shopping experience across supported screen sizes.
 - 🚀 **Deployment:** Frontend hosted on Vercel, backend on Render, and database on MongoDB Atlas.
 
 ### 🧰 Technology Stack
@@ -83,18 +87,7 @@ The project combines an interactive shopping interface with backend APIs, databa
 - Authentication and protected routing.
 - Database schema design and CRUD operations.
 - Product, inventory, and order management.
-- Deployment of frontend and backend services.
-
-### 🔗 Try It Yourself
-
-<p align="center">
-  <a href="https://the-reset-snowy.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐_VISIT_LIVE_WEBSITE-000000?style=for-the-badge" alt="Visit Live Website"/>
-  </a>
-  <a href="https://github.com/vanshika5555/THE_RESET">
-    <img src="https://img.shields.io/badge/💻_VIEW_SOURCE_CODE-6E40C9?style=for-the-badge&logo=github&logoColor=white" alt="View Source Code"/>
-  </a>
-</p>
+- Deployment and integration of frontend, backend, and database services.
 
 ---
 
@@ -109,7 +102,7 @@ The project combines an interactive shopping interface with backend APIs, databa
 - Built booking workflows covering pickup scheduling, quotations, booking history, document uploads, and payment status.
 - Implemented email OTP verification and token-based authentication.
 - Designed MongoDB data models containing 25+ collections.
-- Integrated Express REST APIs to connect customer, booking, and payment-related data.
+- Integrated Express REST APIs connecting customer, booking, and payment-related data.
 - Contributed to a storage and logistics platform supporting customer and operational workflows.
 - Earned a promotion from intern to full-time developer within six months.
 
@@ -123,7 +116,7 @@ The project combines an interactive shopping interface with backend APIs, databa
 - Developed prediction features and eight astrology calculators using PHP.
 - Integrated Razorpay payments, transactional emails, and WhatsApp automation.
 - Converted Figma designs into responsive, SEO-friendly web pages.
-- Worked on both frontend interfaces and backend functionality.
+- Worked on frontend interfaces and backend functionality.
 
 **Tech Stack:** HTML5, CSS3, JavaScript, PHP, MySQL, Razorpay
 
@@ -206,17 +199,29 @@ The project combines an interactive shopping interface with backend APIs, databa
 
 ## 💻 Personal Portfolio Website
 
-A responsive portfolio website built with React.js to showcase my skills, projects, and professional background.
+A responsive personal portfolio built with React.js to showcase my skills, projects, and professional experience.
 
-### Features
-- Component-based architecture.
+### ✨ Features
+
+- Responsive and component-based design.
 - Reusable React components.
-- Scroll-aware active-section navigation.
+- Scroll-aware navigation.
 - Working contact form.
 - Resume download functionality.
 - Deployment using GitHub Pages.
 
-🔗 **[View Portfolio Repository](https://github.com/vanshika5555/portfolio)**
+### 🧰 Tech Stack
+
+`React.js` `JavaScript` `CSS3` `GitHub Pages`
+
+<p align="center">
+  <a href="https://vanshika5555.github.io/Portfolio_React/">
+    <img src="https://img.shields.io/badge/🌐_LIVE_DEMO-Visit_My_Portfolio-0A66C2?style=for-the-badge" alt="Visit Live Portfolio"/>
+  </a>
+  <a href="https://github.com/vanshika5555/Portfolio_React">
+    <img src="https://img.shields.io/badge/💻_GITHUB-Portfolio_React-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Repository"/>
+  </a>
+</p>
 
 ## 🌱 FarmJI
 
@@ -226,7 +231,7 @@ A web development project focused on practical problem-solving and building a us
 
 ## 📋 CEDMS
 
-A project demonstrating my experience in web development and practical application building.
+A project demonstrating my web development experience and practical application-building skills.
 
 🔗 **[Explore CEDMS Repository](https://github.com/vanshika5555/CEDMS)**
 
@@ -260,7 +265,7 @@ Institute of Information Technology and Management, Janakpuri — GGSIPU
 
 # 🏆 Hackathons & Leadership
 
-### 🚀 Hackathon Participation
+## 🚀 Hackathon Participation
 
 Participated in seven hackathons, including:
 
@@ -272,14 +277,14 @@ Participated in seven hackathons, including:
 - Code Nakshatra
 - HackItUp
 
-### 👥 Core Member — GEEK Room
+## 👥 Core Member — GEEK Room
 
 **June 2024 – March 2025**
 
 - Contributed to campus-level hackathons and coding challenges.
 - Supported student participation in technical activities.
 
-### 🎨 Core Graphic Designer — NEXVERSE
+## 🎨 Core Graphic Designer — NEXVERSE
 
 **March 2025 – Present**
 
@@ -291,15 +296,15 @@ Participated in seven hackathons, including:
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanshika5555&show_icons=true&theme=tokyonight&hide_border=true" alt="Vanshika's GitHub Statistics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vanshika5555&show_icons=true&theme=tokyonight&hide_border=true" alt="Vanshika's GitHub Statistics"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshika5555&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshika5555&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vanshika5555&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+  <img src="https://streak-stats.demolab.com?user=vanshika5555&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 </p>
 
 ---
@@ -331,7 +336,10 @@ If you're working on an interesting project or looking for someone passionate ab
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://the-reset-snowy.vercel.app/">
-    <img src="https://img.shields.io/badge/The_Reset-Shop_Now-000000?style=for-the-badge" alt="The Reset E-Commerce Website"/>
+    <img src="https://img.shields.io/badge/E--Commerce-The_Reset-000000?style=for-the-badge" alt="The Reset E-Commerce Website"/>
+  </a>
+  <a href="https://vanshika5555.github.io/Portfolio_React/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-6E40C9?style=for-the-badge" alt="Portfolio Website"/>
   </a>
 </p>
 
@@ -341,6 +349,6 @@ If you're working on an interesting project or looking for someone passionate ab
 
 *"Great software is built by continuously learning, solving real problems, and improving one line of code at a time."*
 
-⭐ Thanks for visiting my GitHub profile! Feel free to explore my projects, try **The Reset**, and connect with me.
+⭐ Thanks for visiting my GitHub profile! Feel free to explore my projects, visit my portfolio, try **The Reset**, and connect with me.
 
 **Happy Coding! 🚀**
